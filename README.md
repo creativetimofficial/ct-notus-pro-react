@@ -23,11 +23,11 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 *   You will have to wait a few minutes for the purchase to go trough
 *   After the payment has gone through (you will know this when you recieve an email from us), you can now install Notus PRO React as follows.
 ```
-npm i -E @notus/react@1.0.0 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
+npm i -E @notus-pro/react@1.0.0 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
 ```
 *   Or, you can install them one by one:
 ```
-npm i -E @notus/react@1.0.0
+npm i -E @notus-pro/react@1.0.0
 npm i -E @fortawesome/fontawesome-free@5.15.1
 npm i -E @popperjs/core@2.5.4
 npm i -E @tailwindcss/forms@0.3.2
@@ -43,19 +43,19 @@ npm i -E tailwindcss@2.0.1
 *   Next, you need to add the Tailwind CSS styles:
 *   You can add our compiled styles directly with this import:
 ```
-import "@notus/react/tailwind.min.css";
+import "@notus-pro/react/tailwind.min.css";
 ```      
 *   Or, if you wish to use a style tag inside a `.html` file:
 ```
-<link rel="stylesheet" href="https://unpkg.com/@notus/react@1.0.0/tailwind.min.css">
+<link rel="stylesheet" href="https://unpkg.com/@notus-pro/react@1.0.0/tailwind.min.css">
 ```
 *   You can now import components from the package like:
 ```
-import ComponentName from "@notus/react/ComponentName";
+import ComponentName from "@notus-pro/react/ComponentName";
 ```
 *   Or import them like:
 ```
-import { ComponentName } from "@notus/react";
+import { ComponentName } from "@notus-pro/react";
 ```
 *   **NOTE: we have not used `yarn` in our development, but only `npm`, so, to avoid any issues provoked by `yarn`, we suggest you do the same. If, however you decide to use `yarn`, and at some point you have any issues, please try again (all of the above) using `npm`.**
 
