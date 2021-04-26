@@ -4,16 +4,15 @@
 
 ![Notus PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/notus-pro-react/notus-pro-react.jpg)
 
-### A beautiful UI Kit and Admin for Tailwind CSS and React.
+Start your development with a premium UI Kit and Admin components library for Tailwind CSS & React. Let Notus PRO React amaze you with its cool features and build tools that will get your project to a whole new level!
 
-Start your development with a Premium Tailwind CSS and React UI Kit and Admin components library. Let Notus PRO React amaze you with its cool features and build tools and get your project to a whole new level.
+Notus PRO React features multiple HTML and React elements, and it comes with dynamic components for React. It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=npr-github-readme) and [Notus React](https://www.creative-tim.com/notus-react?ref=npr-github-readme) (https://www.creative-tim.com/notus-react?ref=npr-github-readme) by Creative Tim.
 
-Notus PRO React is premium UI Kit and Admin, and it features multiple HTML and React elements and it comes with dynamic components for React.
+This beautiful UI Kit & Admin is built with multiple components for different projects, such as Presentation websites, Blog websites,  E-Commerce website platforms, and Admin Dashboard websites. It also features components for authentication and error handling.
 
-It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=npr-github-readme) and [Notus React](https://www.creative-tim.com/notus-react?ref=npr-github-readme) by Creative Tim, and it is built with multiple components for different purposes, such as a Presentation website, a Blog website, an E-Commerce website platform, and Admin Dashboard website. It also features components for authentication and error handling. Besides these 6 sections, it also comes with one more section for different purposes, such as blog sections, features sections, FAQ sections, Pricing and many more. Check all the sections [here](https://demos.creative-tim.com/notus-pro-react/#/components).
+Besides these sections, it also comes with an extra components category that can be used for different purposes, such as blog sections, features sections, FAQ sections, Pricing, and many more. Check all the sections [here](https://demos.creative-tim.com/notus-pro-react/#/components).
 
-Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
-If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+Speed up your web development with an awesome product made by [Creative Tim](https://creative-tim.com/). If you like bright and fresh colors, you will love this Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
 
 ### Get Started
 
@@ -23,11 +22,11 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 *   You will have to wait a few minutes for the purchase to go trough
 *   After the payment has gone through (you will know this when you recieve an email from us), you can now install Notus PRO React as follows.
 ```
-npm i -E @notus/react@1.0.0 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
+npm i -E @notus-pro/react@1.0.0 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
 ```
 *   Or, you can install them one by one:
 ```
-npm i -E @notus/react@1.0.0
+npm i -E @notus-pro/react@1.0.0
 npm i -E @fortawesome/fontawesome-free@5.15.1
 npm i -E @popperjs/core@2.5.4
 npm i -E @tailwindcss/forms@0.3.2
@@ -43,27 +42,25 @@ npm i -E tailwindcss@2.0.1
 *   Next, you need to add the Tailwind CSS styles:
 *   You can add our compiled styles directly with this import:
 ```
-import "@notus/react/tailwind.min.css";
+import "@notus-pro/react/tailwind.min.css";
 ```      
 *   Or, if you wish to use a style tag inside a `.html` file:
 ```
-<link rel="stylesheet" href="https://unpkg.com/@notus/react@1.0.0/tailwind.min.css">
+<link rel="stylesheet" href="https://unpkg.com/@notus-pro/react@1.0.0/tailwind.min.css">
 ```
 *   You can now import components from the package like:
 ```
-import ComponentName from "@notus/react/ComponentName";
+import ComponentName from "@notus-pro/react/ComponentName";
 ```
 *   Or import them like:
 ```
-import { ComponentName } from "@notus/react";
+import { ComponentName } from "@notus-pro/react";
 ```
 *   **NOTE: we have not used `yarn` in our development, but only `npm`, so, to avoid any issues provoked by `yarn`, we suggest you do the same. If, however you decide to use `yarn`, and at some point you have any issues, please try again (all of the above) using `npm`.**
 
 ### Pages
 
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
 Here are all the page from the project:
 - Presentation
@@ -95,7 +92,7 @@ Here are all the page from the project:
 
 ### Sections
 
-Or you can jump start your development with our pre-built sections, and create your own layouts and pages.
+Or you can jump-start your development with our pre-built sections and create your own layouts and pages.
 You can check all the sections provided in this product here:
 
 - [Presentation website sections](https://demos.creative-tim.com/notus-pro-react/#/components#presentation-id-sections)
@@ -106,9 +103,9 @@ You can check all the sections provided in this product here:
 
 ### CSS and React Fully Coded Components
 
-Notus PRO React is built with over 250 frontend components such as [Alerts](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/alerts?ref=npr-github-readme), [Buttons](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/buttons?ref=npr-github-readme), [Inputs](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/forms?ref=npr-github-readme), [Dropdowns](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/dropdowns?ref=npr-github-readme), [Media Players](https://demos.creative-tim.com/notus-pro-react/#/components/e-commerce/components/media-players?ref=npr-github-readme) and many more, giving you the freedom of choosing and combining. Most components can take variations in colors, that you can easily modify using Tailwind CSS classes.
+Notus PRO React is built with over 350 frontend components such as [Alerts](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/alerts?ref=npr-github-readme), [Buttons](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/buttons?ref=npr-github-readme), [Inputs](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/forms?ref=npr-github-readme), [Dropdowns](https://demos.creative-tim.com/notus-pro-react/#/components/misc/components/dropdowns?ref=npr-github-readme), [Media Players](https://demos.creative-tim.com/notus-pro-react/#/components/e-commerce/components/media-players?ref=npr-github-readme), and many more, giving you the freedom of choosing and combining. Most components can take variations in colors that you can easily modify using Tailwind CSS classes.
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
+You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
 Check all of them here:
 
