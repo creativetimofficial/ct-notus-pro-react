@@ -6,7 +6,7 @@
 
 Start your development with a premium UI Kit and Admin components library for Tailwind CSS & React. Let Notus PRO React amaze you with its cool features and build tools that will get your project to a whole new level!
 
-Notus PRO React features multiple HTML and React elements, and it comes with dynamic components for React. It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=npr-github-readme) and [Notus React](https://www.creative-tim.com/notus-react?ref=npr-github-readme) (https://www.creative-tim.com/notus-react?ref=npr-github-readme) by Creative Tim.
+Notus PRO React features multiple HTML and React elements, and it comes with dynamic components for React. It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=npr-github-readme) and [Notus React](https://www.creative-tim.com/notus-react?ref=npr-github-readme) by Creative Tim.
 
 This beautiful UI Kit & Admin is built with multiple components for different projects, such as Presentation websites, Blog websites,  E-Commerce website platforms, and Admin Dashboard websites. It also features components for authentication and error handling.
 
