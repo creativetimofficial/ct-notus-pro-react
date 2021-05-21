@@ -1,5 +1,22 @@
 # Change Log
 
+## [1.0.1] 2021-05-21
+### Bug fixing
+### Major style changes
+- Changed `src/_docs/components/CodeSnippet.js`
+- Changed `src/_docs/layouts/Documentation.js`
+- Changed `src/_docs/views/QuickStart.js`
+- Re-build `tailwind.css` and `tailwind.min.css`
+### Deleted components
+### Added components
+### Deleted dependencies
+### Added dependencies
+### Updated dependencies
+```
+```
+### Warning
+_If needed_
+
 ## [1.0.0] 2021-04-16
 ### Original Release
 - Started project from [Notus React by Creative Tim](https://www.creative-tim.com/product/notus-react?ref=npr-changelog)

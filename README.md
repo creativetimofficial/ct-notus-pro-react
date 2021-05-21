@@ -1,6 +1,6 @@
 # Notus PRO React <a href="<<twitter-share-link>>" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) <a href="https://github.com/creativetimofficial/ct-notus-pro-react/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-notus-pro-react.svg)</a> <a href="https://github.com/creativetimofficial/ct-notus-pro-react/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-notus-pro-react.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) <a href="https://github.com/creativetimofficial/ct-notus-pro-react/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-notus-pro-react.svg)</a> <a href="https://github.com/creativetimofficial/ct-notus-pro-react/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-notus-pro-react.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
 ![Notus PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/notus-pro-react/notus-pro-react.jpg)
 
@@ -22,11 +22,11 @@ Speed up your web development with an awesome product made by [Creative Tim](htt
 *   You will have to wait a few minutes for the purchase to go trough
 *   After the payment has gone through (you will know this when you recieve an email from us), you can now install Notus PRO React as follows.
 ```
-npm i -E @notus-pro/react@1.0.0 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
+npm i -E @notus-pro/react@1.0.1 @fortawesome/fontawesome-free@5.15.1 @popperjs/core@2.5.4 @tailwindcss/forms@0.3.2 chart.js@2.9.4 classnames@2.2.6 prop-types@15.7.2 react@17.0.1 react-router@5.2.0 react-router-dom@5.2.0 tailwindcss@2.0.1
 ```
 *   Or, you can install them one by one:
 ```
-npm i -E @notus-pro/react@1.0.0
+npm i -E @notus-pro/react@1.0.1
 npm i -E @fortawesome/fontawesome-free@5.15.1
 npm i -E @popperjs/core@2.5.4
 npm i -E @tailwindcss/forms@0.3.2
@@ -46,7 +46,7 @@ import "@notus-pro/react/tailwind.min.css";
 ```      
 *   Or, if you wish to use a style tag inside a `.html` file:
 ```
-<link rel="stylesheet" href="https://unpkg.com/@notus-pro/react@1.0.0/tailwind.min.css">
+<link rel="stylesheet" href="https://unpkg.com/@notus-pro/react@1.0.1/tailwind.min.css">
 ```
 *   You can now import components from the package like:
 ```
